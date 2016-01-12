@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Beach Syndicate]]></title>
-        <description><![CDATA[Beach Syndicate]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[A Syndicated Companies Group Organization]]></title>
+        <description><![CDATA[A Syndicated Companies Group Organization]]></description>
+        <link>https://thegrid.ai/beach-syndicate/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 30 Dec 2015 19:47:11 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 12 Jan 2016 14:29:16 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/beach-syndicate/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7dd4cab7-cb67-4767-838e-674e86601640.jpg">]]></description>
-            <link>undefined09e4eb45-b8db-4c9d-acee-a78bd8dc6067/index.html</link>
+            <link>https://thegrid.ai/beach-syndicate/09e4eb45-b8db-4c9d-acee-a78bd8dc6067/index.html</link>
             <guid isPermaLink="false">09e4eb45-b8db-4c9d-acee-a78bd8dc6067</guid>
-            <pubDate>Wed, 30 Dec 2015 19:47:05 GMT</pubDate>
+            <pubDate>Tue, 12 Jan 2016 14:29:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
