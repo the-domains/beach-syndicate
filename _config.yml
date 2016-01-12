@@ -1,0 +1,29 @@
+name: Beach Syndicate
+favicon: null
+layout_spectrum: 0.35683959419839084
+typography_spectrum: 0.5581090950872749
+title: A Syndicated Companies Group Organization
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.3607233427464962
+  lightness: 0.5514901434071362
+  saturation: 0.35225562914274633
+  rhythmicContrast: 0.8024110654368997
+purpose: []
